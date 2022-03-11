@@ -11,5 +11,6 @@ public class T2 {
         System.out.println(now);
         System.out.println(now);
         System.out.println(now);
+        System.out.println("222");
     }
 }
